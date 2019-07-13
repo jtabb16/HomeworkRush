@@ -1,4 +1,4 @@
-package org.jbt;
+package org.jbt.HomeworkRush.main;
 
 public class Main {
 
